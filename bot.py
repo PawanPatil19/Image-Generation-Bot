@@ -1,3 +1,4 @@
+#Bot to upload contest posts to Instagram
 import discord
 from discord.ext import commands
 import datetime
