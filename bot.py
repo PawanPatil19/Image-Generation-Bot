@@ -10,7 +10,7 @@ from io import BytesIO
 
 
 bot = Bot()
-bot.login(username="cphub.nitc", password="hellopc12")
+bot.login(username="******", password="*******")
 
 
 client = commands.Bot(command_prefix = ">")
@@ -125,7 +125,7 @@ async def upload_mirror(ctx,*, text):
 
 
 
-client.run("ODIzODM5MjYzODk1MzIyNjM0.YFmqGg.zJO6EgvRHGnHGRAWYYTKvW6Gs6M")
+client.run("******)
 
 
 
