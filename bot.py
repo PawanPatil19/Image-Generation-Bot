@@ -123,6 +123,12 @@ async def upload_mirror(ctx,*, text):
 	await ctx.send(embed = embed)
 	bot.upload_photo("c2.jpg", caption= upload_text)	
 
+@client.command()
+async def ping(ctx):
+	channel = client.get_channel(*************)
+	await channel.send(file = discord.File("c2.jpg"))
+	
+
 
 
 
