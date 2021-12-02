@@ -1,3 +1,3 @@
 # Contest-Bot
-Bot to upload contest details to Instagram with automated image creation
+A Bot to upload images to Instagram with automated image creation using Pillow library in Python.
 
